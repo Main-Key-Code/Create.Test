@@ -65,7 +65,10 @@ namespace Panel.In.ButtonTopBottom.Control
 
             buttonTop.Click += (sender, e) =>
             {
-                MessageBox.Show("Top button clicked!");
+                //MessageBox.Show("Top button clicked!");
+                PictureTest pTest = new PictureTest();
+                pTest.ShowDialog();
+
             };
 
             //// 하단 버튼 패널

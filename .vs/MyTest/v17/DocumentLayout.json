@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Work_Space\\MyTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|c:\\work_space\\mytest\\panel.in.buttontopbottom.control\\picturetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|solutionrelative:panel.in.buttontopbottom.control\\picturetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|c:\\work_space\\mytest\\panel.in.buttontopbottom.control\\picturetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|solutionrelative:panel.in.buttontopbottom.control\\picturetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|c:\\work_space\\mytest\\panel.in.buttontopbottom.control\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|solutionrelative:panel.in.buttontopbottom.control\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|C:\\Work_Space\\MyTest\\panel.in.buttontopbottom.control\\mainf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|solutionrelative:panel.in.buttontopbottom.control\\mainf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|c:\\work_space\\mytest\\panel.in.buttontopbottom.control\\mainf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|solutionrelative:panel.in.buttontopbottom.control\\mainf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|C:\\Work_Space\\MyTest\\panel.in.buttontopbottom.control\\mainf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B001B0D-EC1E-44EA-8515-C497CD4F07AE}|Panel.In.ButtonTopBottom.Control\\Panel.In.ButtonTopBottom.Control.csproj|solutionrelative:panel.in.buttontopbottom.control\\mainf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserControl1.cs",
               "DocumentMoniker": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\UserControl1.cs",
               "RelativeDocumentMoniker": "Panel.In.ButtonTopBottom.Control\\UserControl1.cs",
               "ToolTip": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\UserControl1.cs",
               "RelativeToolTip": "Panel.In.ButtonTopBottom.Control\\UserControl1.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwDEAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T02:08:35.225Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -44,7 +51,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "PictureTest.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\PictureTest.cs",
+              "RelativeDocumentMoniker": "Panel.In.ButtonTopBottom.Control\\PictureTest.cs",
+              "ToolTip": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\PictureTest.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Panel.In.ButtonTopBottom.Control\\PictureTest.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:12:06.642Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PictureTest.cs",
+              "DocumentMoniker": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\PictureTest.cs",
+              "RelativeDocumentMoniker": "Panel.In.ButtonTopBottom.Control\\PictureTest.cs",
+              "ToolTip": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\PictureTest.cs",
+              "RelativeToolTip": "Panel.In.ButtonTopBottom.Control\\PictureTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:09:35.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainF.cs",
               "DocumentMoniker": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\MainF.cs",
               "RelativeDocumentMoniker": "Panel.In.ButtonTopBottom.Control\\MainF.cs",
@@ -52,11 +84,12 @@
               "RelativeToolTip": "Panel.In.ButtonTopBottom.Control\\MainF.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:04:54.506Z"
+              "WhenOpened": "2025-06-04T02:04:54.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainF.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Work_Space\\MyTest\\Panel.In.ButtonTopBottom.Control\\MainF.cs",
               "RelativeDocumentMoniker": "Panel.In.ButtonTopBottom.Control\\MainF.cs",
