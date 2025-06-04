@@ -1,0 +1,17 @@
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.MainF.resources
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.UserControl1.resources
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.csproj.GenerateResource.cache
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.AssemblyInfoInputs.cache
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.AssemblyInfo.cs
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.csproj.CoreCompileInputs.cache
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\bin\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.exe
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\bin\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.deps.json
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\bin\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.runtimeconfig.json
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\bin\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.dll
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\bin\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.pdb
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.dll
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\refint\Panel.In.ButtonTopBottom.Control.dll
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.pdb
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.genruntimeconfig.cache
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\ref\Panel.In.ButtonTopBottom.Control.dll

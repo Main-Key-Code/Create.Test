@@ -1,0 +1,17 @@
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.Form1.resources
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.csproj.GenerateResource.cache
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.AssemblyInfoInputs.cache
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.AssemblyInfo.cs
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.csproj.CoreCompileInputs.cache
+C:\Work_Space\MyTest\UserControlTest\bin\Debug\net9.0-windows\UserControlTest.exe
+C:\Work_Space\MyTest\UserControlTest\bin\Debug\net9.0-windows\UserControlTest.deps.json
+C:\Work_Space\MyTest\UserControlTest\bin\Debug\net9.0-windows\UserControlTest.runtimeconfig.json
+C:\Work_Space\MyTest\UserControlTest\bin\Debug\net9.0-windows\UserControlTest.dll
+C:\Work_Space\MyTest\UserControlTest\bin\Debug\net9.0-windows\UserControlTest.pdb
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.dll
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\refint\UserControlTest.dll
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.pdb
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.genruntimeconfig.cache
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\ref\UserControlTest.dll
+C:\Work_Space\MyTest\UserControlTest\obj\Debug\net9.0-windows\UserControlTest.MyButtonControl.resources
