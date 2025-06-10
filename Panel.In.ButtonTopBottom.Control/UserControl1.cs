@@ -89,7 +89,10 @@ namespace Panel.In.ButtonTopBottom.Control
 
             buttonBottom.Click += (sender, e) =>
             {
-                MessageBox.Show("Bottom button clicked!");
+                ButtonDrawing bDrawing = new ButtonDrawing();
+                bDrawing.ShowDialog();
+
+                //MessageBox.Show("Bottom button clicked!");
             };
 
 

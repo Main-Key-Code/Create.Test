@@ -17,3 +17,5 @@ C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\P
 C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\ref\Panel.In.ButtonTopBottom.Control.dll
 C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.sourcelink.json
 C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.PictureTest.resources
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.ButtonDrawing.resources
+C:\Work_Space\MyTest\Panel.In.ButtonTopBottom.Control\obj\Debug\net9.0-windows\Panel.In.ButtonTopBottom.Control.Controls.ButtonDrawing.resources
